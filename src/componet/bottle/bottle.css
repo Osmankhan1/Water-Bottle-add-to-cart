@@ -1,0 +1,20 @@
+.bottle{
+    border: 3px solid red;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.bottle img{
+    width: 300px;
+    height: 350px;
+}
+.btn1{
+    background-color: rgb(244, 73, 102);
+    color: aliceblue;
+    border: none;
+    margin-top: 10px;
+}
+.btn1:hover{
+    background-color: rgb(251, 2, 44);
+    color: white;
+}
